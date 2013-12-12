@@ -25,17 +25,17 @@
 		AB420D2B185A589600FE5E72 /* XHLoginViewController3.m in Sources */ = {isa = PBXBuildFile; fileRef = AB420D2A185A589600FE5E72 /* XHLoginViewController3.m */; };
 		AB420D2E185A58A700FE5E72 /* XHLoginViewController4.m in Sources */ = {isa = PBXBuildFile; fileRef = AB420D2D185A58A700FE5E72 /* XHLoginViewController4.m */; };
 		AB420D31185A58FE00FE5E72 /* XHBaseLoginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AB420D30185A58FE00FE5E72 /* XHBaseLoginViewController.m */; };
-		AB420D5F185A624F00FE5E72 /* XHLoginViewController1.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D53185A624F00FE5E72 /* XHLoginViewController1.png */; };
-		AB420D60185A624F00FE5E72 /* XHLoginViewController2.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D55185A624F00FE5E72 /* XHLoginViewController2.png */; };
 		AB420D61185A624F00FE5E72 /* lock.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D57185A624F00FE5E72 /* lock.png */; };
 		AB420D62185A624F00FE5E72 /* lock@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D58185A624F00FE5E72 /* lock@2x.png */; };
 		AB420D63185A624F00FE5E72 /* mail.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D59185A624F00FE5E72 /* mail.png */; };
 		AB420D64185A624F00FE5E72 /* mail@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D5A185A624F00FE5E72 /* mail@2x.png */; };
-		AB420D65185A624F00FE5E72 /* XHLoginViewController3.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D5B185A624F00FE5E72 /* XHLoginViewController3.png */; };
 		AB420D66185A624F00FE5E72 /* running.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AB420D5D185A624F00FE5E72 /* running.jpg */; };
-		AB420D67185A624F00FE5E72 /* XHLoginViewController4.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D5E185A624F00FE5E72 /* XHLoginViewController4.png */; };
 		AB420D6A185A62CF00FE5E72 /* check.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D68185A62CF00FE5E72 /* check.png */; };
 		AB420D6B185A62CF00FE5E72 /* check@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D69185A62CF00FE5E72 /* check@2x.png */; };
+		AB420D71185A6A7300FE5E72 /* XHLoginViewController1.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D6D185A6A7300FE5E72 /* XHLoginViewController1.png */; };
+		AB420D72185A6A7300FE5E72 /* XHLoginViewController2.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D6E185A6A7300FE5E72 /* XHLoginViewController2.png */; };
+		AB420D73185A6A7300FE5E72 /* XHLoginViewController3.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D6F185A6A7300FE5E72 /* XHLoginViewController3.png */; };
+		AB420D74185A6A7300FE5E72 /* XHLoginViewController4.png in Resources */ = {isa = PBXBuildFile; fileRef = AB420D70185A6A7300FE5E72 /* XHLoginViewController4.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -77,17 +77,17 @@
 		AB420D2D185A58A700FE5E72 /* XHLoginViewController4.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLoginViewController4.m; sourceTree = "<group>"; };
 		AB420D2F185A58FE00FE5E72 /* XHBaseLoginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHBaseLoginViewController.h; sourceTree = "<group>"; };
 		AB420D30185A58FE00FE5E72 /* XHBaseLoginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHBaseLoginViewController.m; sourceTree = "<group>"; };
-		AB420D53185A624F00FE5E72 /* XHLoginViewController1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XHLoginViewController1.png; sourceTree = "<group>"; };
-		AB420D55185A624F00FE5E72 /* XHLoginViewController2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XHLoginViewController2.png; sourceTree = "<group>"; };
 		AB420D57185A624F00FE5E72 /* lock.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = lock.png; sourceTree = "<group>"; };
 		AB420D58185A624F00FE5E72 /* lock@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "lock@2x.png"; sourceTree = "<group>"; };
 		AB420D59185A624F00FE5E72 /* mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mail.png; sourceTree = "<group>"; };
 		AB420D5A185A624F00FE5E72 /* mail@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mail@2x.png"; sourceTree = "<group>"; };
-		AB420D5B185A624F00FE5E72 /* XHLoginViewController3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XHLoginViewController3.png; sourceTree = "<group>"; };
 		AB420D5D185A624F00FE5E72 /* running.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = running.jpg; sourceTree = "<group>"; };
-		AB420D5E185A624F00FE5E72 /* XHLoginViewController4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XHLoginViewController4.png; sourceTree = "<group>"; };
 		AB420D68185A62CF00FE5E72 /* check.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = check.png; sourceTree = "<group>"; };
 		AB420D69185A62CF00FE5E72 /* check@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "check@2x.png"; sourceTree = "<group>"; };
+		AB420D6D185A6A7300FE5E72 /* XHLoginViewController1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XHLoginViewController1.png; sourceTree = "<group>"; };
+		AB420D6E185A6A7300FE5E72 /* XHLoginViewController2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XHLoginViewController2.png; sourceTree = "<group>"; };
+		AB420D6F185A6A7300FE5E72 /* XHLoginViewController3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XHLoginViewController3.png; sourceTree = "<group>"; };
+		AB420D70185A6A7300FE5E72 /* XHLoginViewController4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = XHLoginViewController4.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +119,7 @@
 			children = (
 				AB420D22185A580400FE5E72 /* Source */,
 				AB420CF0185A579E00FE5E72 /* XHLogin */,
+				AB420D6C185A6A7300FE5E72 /* Screenshots */,
 				AB420D12185A579E00FE5E72 /* XHLoginTests */,
 				AB420CE9185A579E00FE5E72 /* Frameworks */,
 				AB420CE8185A579E00FE5E72 /* Products */,
@@ -210,7 +211,6 @@
 			isa = PBXGroup;
 			children = (
 				AB420D52185A624F00FE5E72 /* XHLoginViewController1 */,
-				AB420D54185A624F00FE5E72 /* XHLoginViewController2 */,
 				AB420D56185A624F00FE5E72 /* XHLoginViewController3 */,
 				AB420D5C185A624F00FE5E72 /* XHLoginViewController4 */,
 			);
@@ -220,19 +220,10 @@
 		AB420D52185A624F00FE5E72 /* XHLoginViewController1 */ = {
 			isa = PBXGroup;
 			children = (
-				AB420D53185A624F00FE5E72 /* XHLoginViewController1.png */,
 				AB420D68185A62CF00FE5E72 /* check.png */,
 				AB420D69185A62CF00FE5E72 /* check@2x.png */,
 			);
 			path = XHLoginViewController1;
-			sourceTree = "<group>";
-		};
-		AB420D54185A624F00FE5E72 /* XHLoginViewController2 */ = {
-			isa = PBXGroup;
-			children = (
-				AB420D55185A624F00FE5E72 /* XHLoginViewController2.png */,
-			);
-			path = XHLoginViewController2;
 			sourceTree = "<group>";
 		};
 		AB420D56185A624F00FE5E72 /* XHLoginViewController3 */ = {
@@ -242,7 +233,6 @@
 				AB420D58185A624F00FE5E72 /* lock@2x.png */,
 				AB420D59185A624F00FE5E72 /* mail.png */,
 				AB420D5A185A624F00FE5E72 /* mail@2x.png */,
-				AB420D5B185A624F00FE5E72 /* XHLoginViewController3.png */,
 			);
 			path = XHLoginViewController3;
 			sourceTree = "<group>";
@@ -251,9 +241,20 @@
 			isa = PBXGroup;
 			children = (
 				AB420D5D185A624F00FE5E72 /* running.jpg */,
-				AB420D5E185A624F00FE5E72 /* XHLoginViewController4.png */,
 			);
 			path = XHLoginViewController4;
+			sourceTree = "<group>";
+		};
+		AB420D6C185A6A7300FE5E72 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				AB420D6D185A6A7300FE5E72 /* XHLoginViewController1.png */,
+				AB420D6E185A6A7300FE5E72 /* XHLoginViewController2.png */,
+				AB420D6F185A6A7300FE5E72 /* XHLoginViewController3.png */,
+				AB420D70185A6A7300FE5E72 /* XHLoginViewController4.png */,
+			);
+			name = Screenshots;
+			path = ../Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -332,19 +333,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AB420D65185A624F00FE5E72 /* XHLoginViewController3.png in Resources */,
+				AB420D73185A6A7300FE5E72 /* XHLoginViewController3.png in Resources */,
 				AB420D63185A624F00FE5E72 /* mail.png in Resources */,
-				AB420D67185A624F00FE5E72 /* XHLoginViewController4.png in Resources */,
 				AB420D06185A579E00FE5E72 /* Images.xcassets in Resources */,
 				AB420D62185A624F00FE5E72 /* lock@2x.png in Resources */,
 				AB420D64185A624F00FE5E72 /* mail@2x.png in Resources */,
+				AB420D71185A6A7300FE5E72 /* XHLoginViewController1.png in Resources */,
 				AB420D6A185A62CF00FE5E72 /* check.png in Resources */,
 				AB420D66185A624F00FE5E72 /* running.jpg in Resources */,
 				AB420D61185A624F00FE5E72 /* lock.png in Resources */,
+				AB420D72185A6A7300FE5E72 /* XHLoginViewController2.png in Resources */,
 				AB420CF5185A579E00FE5E72 /* InfoPlist.strings in Resources */,
+				AB420D74185A6A7300FE5E72 /* XHLoginViewController4.png in Resources */,
 				AB420D6B185A62CF00FE5E72 /* check@2x.png in Resources */,
-				AB420D5F185A624F00FE5E72 /* XHLoginViewController1.png in Resources */,
-				AB420D60185A624F00FE5E72 /* XHLoginViewController2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
