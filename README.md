@@ -6,10 +6,10 @@ XHLogin
 如下图:
 
 
-![image](https://github.com/JackTeam/XHSocial/raw/master/Screenshots/XHLoginViewController1.png)
+![image](https://github.com/JackTeam/XHLogin/raw/master/Screenshots/XHLoginViewController1.png)
 
-![image](https://github.com/JackTeam/XHSocial/raw/master/Screenshots/XHLoginViewController2.png)
+![image](https://github.com/JackTeam/XHLogin/raw/master/Screenshots/XHLoginViewController2.png)
 
-![image](https://github.com/JackTeam/XHSocial/raw/master/Screenshots/XHLoginViewController3.png)
+![image](https://github.com/JackTeam/XHLogin/raw/master/Screenshots/XHLoginViewController3.png)
 
-![image](https://github.com/JackTeam/XHSocial/raw/master/Screenshots/XHLoginViewController4.png)
+![image](https://github.com/JackTeam/XHLogin/raw/master/Screenshots/XHLoginViewController4.png)
