@@ -26,4 +26,4 @@ English:   XHLogin is acailable under the MIT license, see the LICENSE file for 
 
 =======================
 If you use the open source components in your project,
-please [Email us](xhzengAIB@gmail.com?subject=From%20GitHub%20XHLogin) in which the name of the App, otherwise the consequence is proud.
+please [Email us](mailto:xhzengAIB@gmail.com?subject=From%20GitHub%20XHLogin) in which the name of the App, otherwise the consequence is proud.
