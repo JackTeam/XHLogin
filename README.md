@@ -1,7 +1,7 @@
 XHLogin
 =======
 
-一些登录组件，方便做登录页面，但是重用性比较低，但是界面还是过得去的
+一些登录组件，方便做登录页面，但是重用性比较低，但是界面效果还是过得去的
 
 如下图:
 
@@ -21,3 +21,9 @@ XHLogin
 中文:      XHLogin 是在MIT协议下使用的，可以在LICENSE文件里面找到相关的使用协议信息.
 
 English:   XHLogin is acailable under the MIT license, see the LICENSE file for more information.
+
+
+
+=======================
+If you use the open source components in your project,
+please [Email us](xhzengAIB@gmail.com?subject=From%20GitHub%20XHLogin) in which the name of the App, otherwise the consequence is proud.
